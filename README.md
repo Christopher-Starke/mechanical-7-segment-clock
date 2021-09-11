@@ -3,7 +3,7 @@ A large mechanical 7-segment clock using cheap stepper motors.
 
 ![](/Images/Main_photo.jpg)
 ##
-Each digit requires its own controller board. The seconds digit acts as the master keeping time using the DS3231 RTC and sending I2C commands out to the other digits. The rest of the digits act as slaves receiving numbers via I2C and displaying the number. The minute tens digit needs I2c address #3 hours digit dress #2 and hours tens dress #1. 
+Each digit requires its own controller board. The seconds digit acts as the master keeping time using the DS3231 RTC and sending I2C commands out to the other digits. The rest of the digits act as slaves receiving numbers via I2C and displaying the number. The minute tens digit needs I2C address #3 hours digit dress #2 and hours tens dress #1. 
 
 ## BOM
 - 28x		28BYJ-48 5V stepper motors  
@@ -24,6 +24,15 @@ Each digit requires its own controller board. The seconds digit acts as the mast
 - 1x		Backplate
 - 28x		Digit faces
 
+## Assembly
+### Stepper motor housing assembly
+Assembly of the stepper motor housing can be seen by clicking on the image below. [![IMAGE ALT TEXT](http://img.youtube.com/vi/Xs4gIoHIOZU/0.jpg)](https://youtu.be/Xs4gIoHIOZU)
+Required parts 
+- 1x		608 skateboard bearing (yellow)
+- 1x		28BYJ-48 5V stepper motor
+- 2x 		M4x10 bolts
 
-Assemble of the stepper motor housing can be seen by clicking on the image below. [![IMAGE ALT TEXT](http://img.youtube.com/vi/Xs4gIoHIOZU/0.jpg)](https://youtu.be/Xs4gIoHIOZU)
+Printed parts
+- 1x 		Lever (red)
+- 1x		Stepper Housing (blue)
 

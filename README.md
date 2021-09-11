@@ -25,5 +25,5 @@ Each digit requires its own controller board. The seconds digit acts as the mast
 - 28x		Digit faces
 
 
-Assemble of the stepper motor housing can be seen by clicking on the image below. ![IMAGE ALT TEXT](http://img.youtube.com/vi/Xs4gIoHIOZU/0.jpg)](https://youtu.be/Xs4gIoHIOZU)
+Assemble of the stepper motor housing can be seen by clicking on the image below. [![IMAGE ALT TEXT](http://img.youtube.com/vi/Xs4gIoHIOZU/0.jpg)](https://youtu.be/Xs4gIoHIOZU)
 

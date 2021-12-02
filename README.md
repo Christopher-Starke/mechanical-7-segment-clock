@@ -1,4 +1,4 @@
-%% # THIS DESIGN IS NO LONGER BEIN WORKED ON A BETTER DESIGN IS AVAILABLE AT https://github.com/Christopher-Starke/mechanical-7-segment-clock-V2
+
 
 
 # mechanical-7-segment-clock
